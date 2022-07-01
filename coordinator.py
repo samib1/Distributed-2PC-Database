@@ -1,10 +1,6 @@
 '''
 Purpose:    A01 - Coordinator for the 2PC
-Author:     Byaruhanga Asiimwe Sami
-Student #:  007793446
-Email:      byaruhaa@myumanitoba.ca
-Submission: T/May/24th/2022
-Resources:  test_cli.py, test_worker.py provided by prof
+Author:     Sami
 '''
 
 import socket

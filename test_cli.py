@@ -7,7 +7,7 @@ import socket
 
 class TestShell(cmd.Cmd):
     intro = 'Welcome to the 3010 verifier shell.   Type help or ? to list commands.\n'
-    prompt = '3010 > '
+    prompt = 'Hello > '
     coordinatorSock = None
 
     def preloop(self) -> None:
